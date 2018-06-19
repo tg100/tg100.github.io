@@ -1,0 +1,33 @@
+*{margin: 0;padding: 0;}
+           a{text-decoration: none;}
+	       img，input{border: none;}
+	  	   li{list-style: none;}
+#pc{
+	margin-left: 325px;
+}
+img{
+	width: 100px;
+	height: 100px;
+	margin: 0 20px;
+}
+#bj{
+	width: 400px;
+	height: 400px;
+	margin: 50px 0px 0 415px;
+}
+h1{
+	color:#0d7e83;
+	margin:20px 550px 0;
+}
+li{
+	margin-top: 30px;
+	margin-left: 365px;
+	margin-bottom: 20px;
+}
+a{
+	color: #090089;
+	margin: 20px  85px 70px 20px;
+}
+a:hover{
+	color: #f76262;
+}

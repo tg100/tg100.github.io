@@ -1,0 +1,18 @@
+*{margin: 0;padding: 0;}
+           a{text-decoration: none;}
+	       img，input{border: none;}
+	  	   li{list-style: none;}
+h1{
+	color:#436e4f;
+	margin:100px 600px 0;
+}
+li{
+	margin: 30px 490px;
+}
+li a{
+	color:#ff7a8a;
+	margin: 0 10px;
+}
+li a:hover{
+	color: #08c299;
+}

@@ -1,0 +1,15 @@
+body{
+	margin: 50px 550px;
+}
+a{
+	color:#216583;
+}
+a:hover{
+	color: fuchsia;
+}
+h1{
+	color: #333366;
+}
+p{
+	margin-left: 20px;
+}

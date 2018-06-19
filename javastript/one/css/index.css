@@ -1,0 +1,22 @@
+*{margin: 0;padding: 0;}
+           a{text-decoration: none;}
+	   img，input{border: none;}
+	   li{list-style: none;}
+ h1{
+	margin-left: 100px;
+	margin-top: 60px;
+	color: lightseagreen;
+}
+ul{
+	margin-left: 100px;
+	margin-top: 40px;
+}
+li a{
+	margin-left: 10px;
+}
+a{
+	color: cornflowerblue;
+}
+a:hover{
+	color: blueviolet;
+}

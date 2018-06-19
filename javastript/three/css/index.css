@@ -1,0 +1,27 @@
+ *{margin: 0;padding: 0;}
+           a{text-decoration: none;}
+	       img，input{border: none;}
+	  	   li{list-style: none;}
+h1{
+	color:#113a5d;
+	margin:100px 500px 0;
+}
+li{
+	margin: 30px 410px;
+}
+li a{
+	color: #ef7b7b;
+	margin: 0 10px;
+}
+li a:hover{
+	color: #08c299;
+}
+body{
+	background-image: url(../img/bj.jpg);
+	background-position:left top;
+	background-repeat: no-repeat;
+}
+p{
+	margin: 20px 470px;
+	color: #91ceff;
+}
